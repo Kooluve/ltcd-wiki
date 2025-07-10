@@ -1,0 +1,9 @@
+.md-header__button {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.md-header__button img {
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+}

@@ -1,90 +1,56 @@
-# Welcome to MkDocs
+# **1、赛博侦探简介：**
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+b站up主，主要制作艾尔登法环游戏剧情解析（环学）相关内容。
 
-## Commands
+大号Lora_赛博侦探（id：272128422，注册于2020年3月29日，24年3月29日开始投稿环学视频，25年1月10日因直播开盒封号1年）。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+小号赛博侦探老罗（id：3546880573180208，25年5月1日开始继续投稿环学视频）。
+常用自称：赛博侦探罗拉、罗拉、老罗。
 
-## Project layout
+别称：赛博侦探、侦探、罗、罗哥、小罗、蒸蛋、猡子、罗处、罗畜、神皮贵族、赛博米凯拉、赛博黄眉等（未完全统计）。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+中文法环社区著名争议人物，自环学出道以来其学术水平和道德素质便广受质疑，社区普遍认为此人是中文环学圈有史以来最逆天的存在。本人及其粉丝与反对者展开了长久的敌视和争斗。以他为乐的人也不在少数，并发展出了对其理论与人品进行分析与取乐的"罗学"。
 
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+**恶劣行径包括但不限于：**
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+现实中肆意打架却自称执行正义（详情见后文），该事件热度颇高，事后被派出所拘留6天；
 
-## Project layout
+自诩环学第一人的侦探形象，但剧情论证毫无逻辑，爆出大量极端错误言论毒害学术环境；
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+发言无端阴阳怪气人身攻击；
 
-# Welcome to MkDocs
+恶意碰瓷圈内知名人士博取黑红流量；
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+高强度控评拉黑举报，且疑似动用黑产打击反对者；
 
-## Commands
+疑似买水军宣传、洗地，买大量假粉滥竽充数；
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+无端造谣知名画师画作是ai生成且拒不道歉；
 
-## Project layout
+多次公然开盒泄露反对者隐私；
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+多次造谣反对者引战、开盒、网暴、违法犯罪；
 
-# Welcome to MkDocs
+多次胡乱报警并威胁要将反对者送入监狱（但一年过去也毫无进展）。
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+因侦探长期高强度控评、拉黑，且24年下半开始疯狂恶意举报反对者账号和视频，导致大量视频被下架，大批反对者被封号数月甚至永封。截止25年7月31日，本账号所统计的300个罗学视频仅存70多个（大部分是直播回放或关系不明显所以躲过一劫），反对者被封账号暂未统计，预计起码有二三十个/次。
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
 
-# Welcome to MkDocs
+侦探作为一个粉丝数最多才一万出头并早已跌下一万的小up主，能如此大规模举报封杀反对者，除了b站倾向于偏袒失德up，刁难所谓引战的反对者的无良风气外，社区普遍怀疑侦探动用了黑产（花钱买水军封视频和账号，相关情报可去“b站吧”搜索“举报”、“黑产”、“盗号”等关键词），善良的网友在黑恶势力和平台的不作为下几乎只能忍气吞声。
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+目前b站的反罗战线几乎完全沦陷，仅有少数网友不时补档零星视频，但往往会被立即举报下架。侦探小号数据虽比大号差一些，但还是骗取了一定数量新人的围观和支持，仍然在持续毒害社区。
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
 
+# 2、关于本站
+
+本网站致力于记录赛博侦探的各种恶劣行径。
+
+待填写。

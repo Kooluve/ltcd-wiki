@@ -101,7 +101,7 @@ markdown_extensions: #详见https://squidfunk.github.io/mkdocs-material/setup/ex
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.extra
-  - extensions.preserve_blank_lines:
-      height_per_blank: 0.2
+  #- extensions.preserve_blank_lines:
+  #    height_per_blank: 0.2
 extra_css:
   - stylesheets/extra.css

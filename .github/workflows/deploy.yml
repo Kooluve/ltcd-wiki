@@ -1,29 +1,27 @@
-name: Deploy MkDocs to GitHub Pages with local extension
+# .github/workflows/deploy.yml
+name: Deploy MkDocs with auto multi-blank
 
 on:
   push:
     branches:
-      - main  # 或你的默认分支
+      - main
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          pip install -e ./extensions  # 安装本地 MkDocs 扩展
+      - run: pip install --upgrade pip
+      - run: pip install -r requirements.txt
 
-      - name: Build and deploy MkDocs
-        run: |
-          mkdocs gh-deploy --force
+      # 处理多空行
+      - run: python scripts/process_blank_lines.py
+
+      # 使用临时 docs_temp 构建 MkDocs
+      - run: mkdocs build -f mkdocs.yml -d site_temp -c
+      - run: mkdocs gh-deploy --force -d site_temp

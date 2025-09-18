@@ -1,0 +1,26 @@
+.md-header__button {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.md-header__button img {
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+}
+
+/* 只影响正文区域 */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  margin-top: 0.5em;   /* 标题与上方间距 */
+  margin-bottom: 0.25em; /* 标题与下方正文间距 */
+}
+
+/* 调整段落上下间距 */
+p {
+    margin-top: 0;
+    margin-bottom: 0.2em; /* 或者 0.75em */
+  }

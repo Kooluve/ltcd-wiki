@@ -56,9 +56,6 @@ theme:
 nav: 
   - 主页:
     - 主页: index.md
-  - b站动态:
-    - 侦探小号: bili_opus/det_secondary_account.md
-
 
 plugins:
   - search:
